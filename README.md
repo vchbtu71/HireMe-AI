@@ -162,5 +162,5 @@ Deploy the frontend and backend separately.
 
 ## Profiles
 
-- GitHub: https://github.com/vivek-it07-hbtu/HireMe-AI
+- GitHub: https://github.com/vchbtu71/HireMe-AI
 - LinkedIn: https://www.linkedin.com/in/vivek-chaudhary
